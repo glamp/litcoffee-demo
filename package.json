@@ -1,0 +1,16 @@
+{
+  "name": "litcoffee-demo",
+  "version": "0.0.1",
+  "description": "Demo of litcoffee",
+  "repository": "git@github.com:glamp/litcoffee-demo.git",
+  "main": "index.litcoffee",
+  "keywords": [
+    "litcoffee",
+    "demo"
+  ],
+  "author": "Greg Lamp <lamp.greg@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "coffee-script": "^1.8.0"
+  }
+}
